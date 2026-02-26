@@ -1,0 +1,14 @@
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\bin\Debug\net10.0\RPG2App.exe
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\bin\Debug\net10.0\RPG2App.deps.json
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\bin\Debug\net10.0\RPG2App.runtimeconfig.json
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\bin\Debug\net10.0\RPG2App.dll
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\bin\Debug\net10.0\RPG2App.pdb
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\RPG2App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\RPG2App.AssemblyInfoInputs.cache
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\RPG2App.AssemblyInfo.cs
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\RPG2App.csproj.CoreCompileInputs.cache
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\RPG2App.dll
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\refint\RPG2App.dll
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\RPG2App.pdb
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\RPG2App.genruntimeconfig.cache
+C:\Users\alanh\Desktop\JustIT_Bootcamp\week7\day4\RPG_Refactor\RPG2App\obj\Debug\net10.0\ref\RPG2App.dll

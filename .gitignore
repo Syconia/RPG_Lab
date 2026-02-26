@@ -1,4 +1,9 @@
 #Directories
+RPG2App/bin/
+RPG2App/obj/
+RPG2Tests/bin/
+RPT2Tests/obj/
+
 
 #Files
 RPG_Refactor.sln

@@ -1,6 +1,6 @@
 namespace RPG2App;
 
-class TopBar : DrawLayers
+public class TopBar : DrawLayers
 {
     
     public TopBar(string name, bool isActive, int priority, GameManager gm) : base(name, isActive, priority, gm)

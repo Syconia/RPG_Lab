@@ -2,7 +2,7 @@ namespace RPG2App;
 
 public class InteractableLayer : DrawLayers
 {
-    protected bool IsInteractable;
+    public bool IsInteractable;
     protected bool Highlighted;
     protected int HighlightIndex;
     protected List<string> ActionList;

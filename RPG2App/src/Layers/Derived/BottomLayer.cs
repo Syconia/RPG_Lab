@@ -1,6 +1,6 @@
 namespace RPG2App;
 
-class BottomLayer : InteractableLayer
+public class BottomLayer : InteractableLayer
 {
     
     public BottomLayer(string name, bool isActive, int priority, GameManager gm) : base(name, isActive, priority, gm, true)
